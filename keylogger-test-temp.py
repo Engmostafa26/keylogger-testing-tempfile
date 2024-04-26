@@ -32,3 +32,4 @@ class klogger:
         with kl:
             self.report()
             kl.join()
+            print(" XEye Academy --> https://academy.XEyecs.com ")
